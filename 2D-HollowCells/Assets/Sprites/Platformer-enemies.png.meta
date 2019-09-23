@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 09c137230fea9854f84455c318cf957a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1812718291394226087
+    second: Platformer-enemies_0
+  - first:
+      213: 1271124833248869267
+    second: Platformer-enemies_1
+  - first:
+      213: -8910508439889466356
+    second: Platformer-enemies_2
+  - first:
+      213: -4072320170703228576
+    second: Platformer-enemies_3
+  - first:
+      213: -7658973005542941810
+    second: Platformer-enemies_4
+  - first:
+      213: -6779347055987795978
+    second: Platformer-enemies_5
+  - first:
+      213: 3072692108037460246
+    second: Platformer-enemies_6
+  - first:
+      213: 5116122814243559225
+    second: Platformer-enemies_7
+  - first:
+      213: 707057960730878537
+    second: Platformer-enemies_8
+  - first:
+      213: 85096375746882579
+    second: Platformer-enemies_9
+  - first:
+      213: -4570454768130980678
+    second: Platformer-enemies_10
+  - first:
+      213: -8131030157951287087
+    second: Platformer-enemies_11
+  - first:
+      213: -6666208456363944864
+    second: Platformer-enemies_12
+  - first:
+      213: 3323533934413986575
+    second: Platformer-enemies_13
+  - first:
+      213: -8992934738079611732
+    second: Platformer-enemies_14
+  - first:
+      213: 940779397146228008
+    second: Platformer-enemies_15
+  - first:
+      213: 5412853571072302470
+    second: Platformer-enemies_16
+  - first:
+      213: 1963260109545621614
+    second: Platformer-enemies_17
+  - first:
+      213: 1696739510357209708
+    second: Platformer-enemies_18
+  - first:
+      213: 8158408001965157315
+    second: Platformer-enemies_19
+  - first:
+      213: -5076208617447647951
+    second: Platformer-enemies_20
+  - first:
+      213: 1606155326804043787
+    second: Platformer-enemies_21
+  - first:
+      213: 2324141127614195698
+    second: Platformer-enemies_22
+  - first:
+      213: 4682271319605359773
+    second: Platformer-enemies_23
+  - first:
+      213: 5237775440848953675
+    second: Platformer-enemies_24
+  - first:
+      213: -3256397368875695533
+    second: Platformer-enemies_25
+  - first:
+      213: -7682136281911400954
+    second: Platformer-enemies_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer-enemies_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 414
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660d310527ba2c4abaea5aaaed3f527
+      internalID: 1812718291394226087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 423
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f5f9f3bc43a744894b33e33969123
+      internalID: 1271124833248869267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 402
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65182a6e1cbaceb46a48f70acd5c684a
+      internalID: -8910508439889466356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 410
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8d0f9a5ee9264883cd157f90b718d
+      internalID: -4072320170703228576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 410
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb91b5d8b4aa042bcbc87d05900b63
+      internalID: -7658973005542941810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 339
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2f71bf937951479c46813cc56531c
+      internalID: -6779347055987795978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 340
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe87a8aac338944852bbb6bc46cf31
+      internalID: 3072692108037460246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 339
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54019443ab7f04a927cb047c07690e
+      internalID: 5116122814243559225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 340
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f80d2509651d44a6bfe670d80a25a
+      internalID: 707057960730878537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 266
+        width: 274
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5c6b3632b80f40827577ff826c661
+      internalID: 85096375746882579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 254
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e7892f988b6140b26f4576a8eff16
+      internalID: -4570454768130980678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 254
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafcbe99a3f9c948ac33a1379043cad
+      internalID: -8131030157951287087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 254
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01daf83bddfa0f4087298e01ac2badb
+      internalID: -6666208456363944864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 254
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c335a80b665ba54ab76f7e1d7882a5f
+      internalID: 3323533934413986575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 181
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b3a8992f82ab448eb9c8c411c7d5b
+      internalID: -8992934738079611732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb61673a141b64b900c3c53f1087b0
+      internalID: 940779397146228008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e1ce39895adc4483c3efdb73de1b1
+      internalID: 5412853571072302470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 207
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e18ffdda71d14fba6b5b4501446c8
+      internalID: 1963260109545621614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 158
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea08dac4ced9fd44958b4bf61bc675e
+      internalID: 1696739510357209708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 201
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac0f4944c95ea45a4dd780e110720b
+      internalID: 8158408001965157315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d31416c03495c4f91e9cb586412d35
+      internalID: -5076208617447647951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e927232523c09c49867c5b80f8c3e85
+      internalID: 1606155326804043787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 48
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d6fe0cb5d6a443b43a6e4a827ce7d
+      internalID: 2324141127614195698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f90c0c7354ce349b2f4896538228e8
+      internalID: 4682271319605359773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13695d96e76c2e842a0fe0d4fc2e9671
+      internalID: 5237775440848953675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 50
+        width: 150
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066616911dbf08b418007704c914fc95
+      internalID: -3256397368875695533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-enemies_26
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 45
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0fcdea67b4674c8484795b8551820
+      internalID: -7682136281911400954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
