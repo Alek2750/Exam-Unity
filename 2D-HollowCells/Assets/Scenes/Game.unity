@@ -748,7 +748,7 @@ GameObject:
   - component: {fileID: 298398452}
   - component: {fileID: 298398451}
   m_Layer: 0
-  m_Name: KillZone (1)
+  m_Name: WaterKillZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4036,7 +4036,7 @@ GameObject:
   - component: {fileID: 1681992102}
   - component: {fileID: 1681992101}
   m_Layer: 0
-  m_Name: KillZone
+  m_Name: OutOfMapKillZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
