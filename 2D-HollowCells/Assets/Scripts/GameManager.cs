@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 {
 
     bool gameHasEnded = false;
-    public float restartDelay = 0f;
+    public float restartDelay = .1f;
 
     [SerializeField]
     private GameObject GameOverUI;
