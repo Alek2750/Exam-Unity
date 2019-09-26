@@ -21,7 +21,7 @@ public class PlayerInRange : MonoBehaviour
     void Start()
     {
         player = FindObjectOfType<PlatformerCharacter2D>();
-        shotCounter = waitBewteenShots;
+        shotCounter = waitBewteenShots; // the boss cant shoot for the first 2 sec of the game
     }
 
     // Update is called once per frame

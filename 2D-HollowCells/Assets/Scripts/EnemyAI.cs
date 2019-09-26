@@ -26,7 +26,7 @@ public class EnemyAI : MonoBehaviour
         seeker = GetComponent<Seeker>();
         rb = GetComponent<Rigidbody2D>();
 
-        InvokeRepeating("UpdatePath", 0f, .5f);
+        InvokeRepeating("UpdatePath", 0f, .5f); // start updatePath method and repate every .5 seconds
         
     }
 
@@ -62,9 +62,9 @@ public class EnemyAI : MonoBehaviour
         }
 
         Vector2 dir = ((Vector2)path.vectorPath[currentWaypoint] - rb.position).normalized;
-        Vector2 force = dir * speed * Time.deltaTime;
+        Vector2 force = dir * speed * Time.deltaTime; // Time.delta 10 meters per seconds and not per frame.
 
-        rb.AddForce(force);
+        rb.AddForce(force); // addforce to rigidbody
 
         float distance = Vector2.Distance(rb.position, path.vectorPath[currentWaypoint]);
 

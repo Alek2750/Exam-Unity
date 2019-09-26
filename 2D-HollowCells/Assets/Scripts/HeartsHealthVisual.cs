@@ -17,7 +17,7 @@ public class HeartsHealthVisual : MonoBehaviour
     private List<HeartImage> heartImageList;
     private HeartsHealthSystem heartsHealthSystem;
 
-    private void Awake()
+    private void Awake() //Awake intialize variables or game state before the game start, here it adds heartImage before the game start.
     {
         heartImageList = new List<HeartImage>();
     }
@@ -32,7 +32,7 @@ public class HeartsHealthVisual : MonoBehaviour
     {
         this.heartsHealthSystem = heartsHealthSystem;
         heartsHealthSystemStatic = heartsHealthSystem;
-
+        // Set max visual hearts
         List<HeartsHealthSystem.Heart> heartList = heartsHealthSystem.GetHeartList();
         int row = 0;
         int col = 0;

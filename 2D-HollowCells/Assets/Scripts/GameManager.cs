@@ -20,7 +20,8 @@ public class GameManager : MonoBehaviour
         {
             gameHasEnded = true;
             Debug.Log("GameOver!");
-            Invoke("Restart", restartDelay);
+            // start the methodname in x amount time seconds
+            Invoke("Restart", restartDelay); // delay .1f
             
         }
 
