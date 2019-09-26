@@ -32,7 +32,7 @@ public class EnemyWalk : MonoBehaviour
             }
         else
         {
-                transform.eulerAngles = new Vector3(0, 2, 0);
+                transform.eulerAngles = new Vector3(0, 0, 0);
                 movvingRight = true;
             }
     }

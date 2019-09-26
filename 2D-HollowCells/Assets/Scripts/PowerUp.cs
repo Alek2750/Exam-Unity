@@ -31,7 +31,7 @@ public class PowerUp : MonoBehaviour
         GetComponent<SpriteRenderer>().enabled = false; // disable Sprite
         GetComponent<Collider2D>().enabled = false; // disable collider
 
-        yield return new WaitForSeconds(10f); // wait for 5s
+        yield return new WaitForSeconds(10f); // wait for 10s
 
         speed.m_MaxSpeed /= speedBoost;
 
